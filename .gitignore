@@ -1,0 +1,10 @@
+*.pyc
+/venv
+/env
+.env
+config.ini
+*__pycache__
+/application/*/media/*
+
+.pytest_cache/
+.idea
